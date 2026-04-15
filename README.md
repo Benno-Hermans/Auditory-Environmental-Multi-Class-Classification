@@ -1,7 +1,7 @@
 # Auditory-Environmental-Multi-Class-Classification
 
 ## Overview
-Brief explanation of the project does.
+This project contains the notebook file for a google Co-Lab based CNN network that classifies audio into five key categories which are animals, natural soundscapes, human non-speech, interior(domestic) sounds, and exterior(urban) sounds. The data used for training, validating, and testing this CNN is the ESC-50 dataset uploaded to Hugging Face by ashraq.
 
 ## Motivation
 Why we chose this project
@@ -12,7 +12,7 @@ Why we chose this project
 
 ## How to Run
 1. Open the notebook in Google Colab
-2. Install dependencies:
+2. Install dependencies:(ARE THERE ANY)
 3. Run all cells
 
 ## Files
@@ -27,4 +27,7 @@ Explain outputs, graphs, accuracy...
 Paste the link here
 
 ## Authors
-- Our Names
+- Carter Harman
+- Benno Hermans
+- Zackary Groth
+- Giovanni DeAngeles
