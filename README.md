@@ -20,13 +20,11 @@ Environmental sound classification has practical applications in wildlife monito
 1. Open the notebook (EEL4810_AudioClassification.ipynb) in Google Colab
 2. Make sure you're using a GPU runtime (Runtime → Change runtime type → T4 GPU)
 3. Run all cells top to bottom. The notebook will install dependencies, download the dataset via Hugging Face, preprocess audio, train the model across all 5 folds, and generate evaluation outputs automatically
-4. For new, full training iterations, run all cells. To only evaluate the pre-trained models, import the datasets, run cells that set up the CNN model and datasets, and then run the final notebook cell.
-5. To skip training run inference only, load the saved checkpoint.
-  -Download..................
+4. For new, full training iterations, run all cells.
+5. To only evaluate the pre-trained models, import the datasets, run cells that set up the CNN model and datasets, and then run the final notebook cell.
 
 ## *Files
 - EEL4810_AudioClassification.ipynb → Main Notebook File
-- requirements.txt → Key dependencies
 - before_augmentation.pth → Saved Model Before Data Augmentation
 - after_augmentation.pth → Saved Model After Data Augmentation
 *The BEATs .pth file utilized as a baseline comparison is too large to be hosted on github. The download for an array of these models can be found here: https://github.com/microsoft/unilm/tree/master/beats
