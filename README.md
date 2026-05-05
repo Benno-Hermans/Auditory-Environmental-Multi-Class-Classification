@@ -27,7 +27,7 @@ Environmental sound classification has practical applications in wildlife monito
 - EEL4810_AudioClassification.ipynb → Main Notebook File
 - before_augmentation.pth → Saved Model Before Data Augmentation
 - after_augmentation.pth → Saved Model After Data Augmentation
-*The BEATs .pth file utilized as a baseline comparison is too large to be hosted on github. The download for an array of these models can be found here: https://github.com/microsoft/unilm/tree/master/beats
+- The BEATs .pth file utilized as a baseline comparison is too large to be hosted on github. The download for an array of these models can be found here: https://github.com/microsoft/unilm/tree/master/beats
 
 
 ## Authors
