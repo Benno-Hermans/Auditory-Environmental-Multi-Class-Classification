@@ -23,7 +23,7 @@ Environmental sound classification has practical applications in wildlife monito
 4. For new, full training iterations, run all cells.
 5. To only evaluate the pre-trained models, import the datasets, run cells that set up the CNN model and datasets, and then run the final notebook cell.
 
-## *Files
+## Files
 - EEL4810_AudioClassification.ipynb → Main Notebook File
 - before_augmentation.pth → Saved Model Before Data Augmentation
 - after_augmentation.pth → Saved Model After Data Augmentation
